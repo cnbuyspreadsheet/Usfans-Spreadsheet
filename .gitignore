@@ -1,0 +1,4 @@
+deploy_to_github_pages.sh
+*.log
+.DS_Store
+.local/
